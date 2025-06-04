@@ -8,7 +8,7 @@
 
 void Pi(void)
 {
-	double pi = 3.141592;
+	double pi=3.141592;
 
 	printf("pi = %.2f\n", pi);
 	printf("pi = %.4f\n", pi);
